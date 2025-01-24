@@ -9,4 +9,4 @@ number = int(input("Enter a number: "))
 if prime_number (number) == False:
     print("It's not a prime number.")
 else:
-    print("It's a prime number.")
+    print("It's a prime number.") 

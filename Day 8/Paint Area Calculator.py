@@ -10,4 +10,3 @@ w = int(input("width_of_wall : "))
 coverage = 5
 
 paint_calc(height = h, width = w, cover = coverage)
-
